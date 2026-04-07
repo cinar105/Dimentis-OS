@@ -12,7 +12,7 @@ A minimal Arch Linux setup focused on aesthetics, performance, and customization
 
 ## 📸 Screenshot
 
-*(add your screenshot here)*
+‎images/screenshot_260407_190247.png‎
 
 ## ⚙️ Setup
 
