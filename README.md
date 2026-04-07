@@ -19,7 +19,7 @@ A minimal Arch Linux setup focused on aesthetics, performance, and customization
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/yourusername/Dimentis-OS
+git clone https://github.com/cinar105/Dimentis-OS
 cd Dimentis-OS
 ```
 
