@@ -12,7 +12,9 @@ A minimal Arch Linux setup focused on aesthetics, performance, and customization
 
 ## 📸 Screenshot
 
-‎images/screenshot_260407_190247.png‎
+‎📸 Screenshot
+
+![Dimentis OS Screenshot](images/screenshot_260407_190247.png)‎
 
 ## ⚙️ Setup
 
